@@ -1,5 +1,26 @@
 [
   {
+    "name": "Tachiyomi: Constellar Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.constellarscans",
+    "apk": "tachiyomi-en.constellarscans-v1.4.40.apk",
+    "lang": "en",
+    "code": 40,
+    "version": "1.4.40",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Constellar Scans",
+        "lang": "en",
+        "id": "621381833080231711",
+        "baseUrl": "https://constellarscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shonen Jump (App)",
     "pkg": "eu.kanade.tachiyomi.extension.en.shonenjumpapp",
     "apk": "tachiyomi-en.shonenjumpapp-v1.4.6.apk",
