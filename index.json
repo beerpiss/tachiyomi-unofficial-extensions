@@ -21,6 +21,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: K Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.kmanga",
+    "apk": "tachiyomi-en.kmanga-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "K Manga",
+        "lang": "en",
+        "id": "8143442163119480220",
+        "baseUrl": "https://api.kmanga.kodansha.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shonen Jump (App)",
     "pkg": "eu.kanade.tachiyomi.extension.en.shonenjumpapp",
     "apk": "tachiyomi-en.shonenjumpapp-v1.4.6.apk",
@@ -57,6 +78,27 @@
         "lang": "en",
         "id": "6785596900158508926",
         "baseUrl": "https://www.viz.com/vizmanga",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: マガポケ",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.shonenmagazinepocket",
+    "apk": "tachiyomi-ja.shonenmagazinepocket-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "マガポケ",
+        "lang": "ja",
+        "id": "6514359099630514831",
+        "baseUrl": "https://mgpk-api.magazinepocket.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
