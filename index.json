@@ -21,6 +21,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: INKR",
+    "pkg": "eu.kanade.tachiyomi.extension.en.inkr",
+    "apk": "tachiyomi-en.inkr-v1.4.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "INKR",
+        "lang": "en",
+        "id": "6949560025265725268",
+        "baseUrl": "https://comics.inkr.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: K Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.kmanga",
     "apk": "tachiyomi-en.kmanga-v1.4.1.apk",
