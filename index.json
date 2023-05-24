@@ -63,6 +63,69 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaHub",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
+    "apk": "tachiyomi-en.mangahubio-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaHub",
+        "lang": "en",
+        "id": "4758858684982406533",
+        "baseUrl": "https://mangahub.io",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaPanda.onl",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
+    "apk": "tachiyomi-en.mangapandaonl-v1.4.22.apk",
+    "lang": "en",
+    "code": 22,
+    "version": "1.4.22",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaPanda.onl",
+        "lang": "en",
+        "id": "7661417715431651982",
+        "baseUrl": "https://mangapanda.onl",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaReader.site",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
+    "apk": "tachiyomi-en.mangareadersite-v1.4.22.apk",
+    "lang": "en",
+    "code": 22,
+    "version": "1.4.22",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaReader.site",
+        "lang": "en",
+        "id": "2527199067559866087",
+        "baseUrl": "https://mangareader.site",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Shonen Jump (App)",
     "pkg": "eu.kanade.tachiyomi.extension.en.shonenjumpapp",
     "apk": "tachiyomi-en.shonenjumpapp-v1.4.6.apk",
